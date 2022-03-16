@@ -1,11 +1,12 @@
 {
     "name": "Friend micro bit",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Friend micro bit": "github:joaquinjulca1234512/friends-micro-bit#f11a95b6ad4f137529c654d5943c19124e4e100d"
+        "Friend micro bit": "github:joaquinjulca1234512/friends-micro-bit"
     },
     "files": [
         "main.ts",
